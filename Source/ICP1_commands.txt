@@ -4,11 +4,11 @@ $ hadoop fs -mkdir /user/cloudera/Razi
 
 2) Moving firstfile to hdfs cloudera 
 
-$ hadoop fs -put /user/cloudera/Downloads/word_list.txt /user/cloudera/Razi
+$ hadoop fs -put /home/cloudera/Downloads/word_list.txt /user/cloudera/Razi
 
 3) Appending Second file to First file
 
-$ hadoop fs -appendToFile /user/cloudera/Downloads/shakespeare.txt /user/cloudera/Razi/word_list.txt
+$ hadoop fs -appendToFile /home/cloudera/Downloads/shakespeare.txt /user/cloudera/Razi/word_list.txt
 
 4) Five 5 lines and Last five lines of merged file and saving output in new file 
 
