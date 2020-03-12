@@ -2,7 +2,7 @@
 // CREATING KEYSPACE AHAMEDRAZI
 
 CREATE KEYSPACE AHAMEDRAZI WITH REPLICATION={'class':'SimpleStrategy','replication_factor':1};
-cqlsh:keyspacename> USE AHAMEDRAZI;
+
 
 //USING KEYSPACE
 
