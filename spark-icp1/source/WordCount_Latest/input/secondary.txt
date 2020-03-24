@@ -1,0 +1,6 @@
+country,usa,kansas
+country,usa,missouri
+country,china,wuhan
+country,china,beijing
+country,japan,tokyo
+country,japan,xheinping
